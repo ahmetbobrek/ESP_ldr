@@ -10,6 +10,7 @@
             "includePath": [
                 "c:/Users/USER/Desktop/ESP_ldr/include",
                 "c:/Users/USER/Desktop/ESP_ldr/src",
+                "c:/Users/USER/Desktop/ESP_ldr/.pio/libdeps/esp32dev/Arduino-Photosensor/src",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -112,6 +113,7 @@
                 "path": [
                     "c:/Users/USER/Desktop/ESP_ldr/include",
                     "c:/Users/USER/Desktop/ESP_ldr/src",
+                    "c:/Users/USER/Desktop/ESP_ldr/.pio/libdeps/esp32dev/Arduino-Photosensor/src",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
